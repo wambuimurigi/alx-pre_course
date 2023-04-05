@@ -1,1 +1,1 @@
-My first readme
+My first coding session has been fun
